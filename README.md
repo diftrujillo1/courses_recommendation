@@ -1,2 +1,6 @@
-# courses_recommendation
-personal
+# Recomendación de cursos.
+Este es un repositorio creado para dar una guía de cómo se pueden obtener datos mediante la técnica de 'Web Scraping'. Especialmente, fue creado para montar un demo que recolecta la información de cursos de dos plataformas conocidas en Colombia: Coursera y Platzi. Por mi perfil, me interesaron estas plataformas porque ofrecen cursos innovadores, especialmente en temas de Big Data / Ciencia de Datos / Algoritmia. Claro que hay muchísimas plataformas más que ofrecen otros 'MOOCS'
+
+Este demo se construyó en R utilizando solo pocas librerías como 'rvest', 'stringr', entre otras. La aplicación web fue creada con Shiny, mediante la opción gratuita de Shinyapps. Esto está pensado para ir mejorándolo con el tiempo y obtener diferentes plataformas educativas más.
+
+Los datos no fueron cargados, pero se pueden descargar desde 0 solo ejecutando los scripts que están allí. Solamente fueron cargados los datos ya pre-procesados y limpios (__demo/data__), no con el fin de poder correrlo, sino para que el usuario pueda observar las diferentes estructuras que quise plantear al momento de cargarlas desde la aplicación de shiny. Este es el [link](https://diftrujillo1.shinyapps.io/demo_scraping/) para ver funcionando la web-app.

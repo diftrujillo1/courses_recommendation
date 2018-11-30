@@ -1,0 +1,12 @@
+name: demo_scraping
+title: demo_scraping
+username:
+account: diftrujillo1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 425108
+bundleId: 1574568
+url: https://diftrujillo1.shinyapps.io/demo_scraping/
+when: 1536331246.09746
+asMultiple: FALSE
+asStatic: FALSE
